@@ -4,7 +4,7 @@ I'm a third-year CS Student studying at UC Berkeley who is graduating in May 202
 
 My favorite part about software engineering and CS is how you can create features that make users' lives much easier. On top of that, I love how you can apply engineering methodologies to create meaningful solutions to important problems in our society. 😊
 
-In terms of my work experience, I've most recently worked on the [Runner](https://github.com/actions/runner) on the [GitHub Actions](https://github.com/features/actions) Team as a Software Engineering Intern where I designed, implemented, and launched the composite run steps action feature. In the past I've interned at Etsy and Alpaca. For these work experiences, I worked with C#, Python, Go, and JavaScript to develop features for millions of people. 
+In terms of my work experience, I've most recently worked on the [Runner](https://github.com/actions/runner) on the [GitHub Actions](https://github.com/features/actions) Team as a Software Engineering Intern where I designed, implemented, and launched the composite run steps action feature. In the past I've interned at [Etsy](https://www.etsy.com/) and [Alpaca](https://alpaca.markets/). For these work experiences, I worked with C#, Python, Go, and JavaScript to develop features for millions of people. 
 
 My favorite language is Python at the moment but I'm slowly starting to enjoy C-languages after taking operating sytem and security classes. 
 
