@@ -1,11 +1,23 @@
 ### Hi there 👋
 
-I'm a third-year CS Student studying at UC Berkeley who is graduating in May 2021. As a "non traditional" learner who had to develop much of my own study strategies to succeed in my coursework, my main passion at school is lowering the barrier of entry for learning CS. This semester, I'm creating content and teaching weekly sections for our Intro to CS course as a member of Computer Science Mentors and of the CS 61A course staff. Outside of teaching, I've recently created a platform with a few of my friends called <a href="https://connected.berkeley.edu/">Connect@Cal</a> for students to easily access resources they need from Berkely!
+I'm currently a CS student at UC Berkeley who loves building software that tackles important and interesting problems.
 
-My favorite part about software engineering and CS is how you can create features that make users' lives much easier. On top of that, I love how you can apply engineering methodologies to create meaningful solutions to important problems in our society. 😊
+I'm currently working on:
+- creating more accessible educational content for CS 61A as an Associate and Content Mentor in [Computer Science Mentors](https://csmentors.berkeley.edu/#/).
+- leading the engineering team at [Connect@Cal](https://connected.berkeley.edu/) where we are creating new tools to help students get connected to personalized resources more easily such as our AI chat bot and case management system.
 
-In terms of my work experience, I've most recently worked on the [Runner](https://github.com/actions/runner) on the [GitHub Actions](https://github.com/features/actions) Team as a Software Engineering Intern where I designed, implemented, and launched the [composite run steps action feature](https://github.blog/changelog/2020-08-07-github-actions-composite-run-steps/). In the past I've interned at [Etsy](https://www.etsy.com/) and [Alpaca](https://alpaca.markets/). At these internships, I worked with languages such as C#, Python, Go, PHP, and JavaScript as well as frameworks/technologies such as .NET, Flask, and Docker to develop features for millions of people. 
+Some professional experiences I'm proud of:
+- worked on the [Runner](https://github.com/actions/runner) on the [GitHub Actions](https://github.com/features/actions) Team as a Software Engineering Intern where I designed, implemented, and launched the [composite run steps action feature](https://github.blog/changelog/2020-08-07-github-actions-composite-run-steps/)
+- created several features at [Etsy](https://www.etsy.com/) that helped users checkout more easily
+- created a technical analysis site that analyzes over 19 cryptocurrencies over 100 bullish and bearish signals at [Alpaca](https://alpaca.markets/).
 
-In my free time, I love playing volleyball and basketball as well as watching cooking videos.
+Throughout these experiences, I've worked with C#, Python, Go, PHP, and JavaScript as well as frameworks/technologies such as .NET, Flask, and Docker to develop features for millions of people. 
 
-For more info, check out my website: https://ethanchiu.xyz/!
+In my free time, I love playing video games with my friends, cooking, and playing basketball.
+
+For more info, check out the following links:
+- website: https://ethanchiu.xyz/
+- blog: https://ethanchiu.xyz/blog/
+- linkedin: https://www.linkedin.com/in/ethanchiu/
+
+I'm graduating in May 2020, so if you have a new grad Software Engineering role that you think would be a good fit for me, please let me know!
