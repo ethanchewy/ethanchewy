@@ -3,7 +3,7 @@
 I'm currently a CS student at UC Berkeley who loves building software that tackles important and interesting problems.
 
 I'm currently working on:
-- creating more accessible educational content for CS 61A as an Associate and Content Mentor in [Computer Science Mentors](https://csmentors.berkeley.edu/#/).
+- creating more accessible educational content for CS 61A as a Course Tutor as well as an Associate and Content Mentor in [Computer Science Mentors](https://csmentors.berkeley.edu/#/).
 - leading the engineering team at [Connect@Cal](https://connected.berkeley.edu/) where we are creating new tools to help students get connected to personalized resources more easily such as our AI chat bot and case management system.
 
 Some professional experiences I'm proud of:
