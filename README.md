@@ -19,5 +19,3 @@ For more info, check out the following links:
 - website: https://ethanchiu.xyz/
 - blog: https://ethanchiu.xyz/blog/
 - linkedin: https://www.linkedin.com/in/ethanchiu/
-
-I'm graduating in May 2021, so if you have a new grad Software Engineering role that you think would be a good fit for me, please let me know!
