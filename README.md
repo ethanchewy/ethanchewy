@@ -20,4 +20,4 @@ For more info, check out the following links:
 - blog: https://ethanchiu.xyz/blog/
 - linkedin: https://www.linkedin.com/in/ethanchiu/
 
-Want to grab some coffee in person in San Francisco? Shoot me a DM at https://twitter.com/ChiuTweets
+Want to grab some coffee with me in San Francisco? Shoot me a DM at https://twitter.com/ChiuTweets
