@@ -2,7 +2,7 @@
 
 I'm currently a Software Engineer at GitHub who loves building software that tackles important and interesting problems. 
 
-When I started programming for the first time, I remember diving into various open-source repos to learn how software development "works" for large projects and eventually contributing to a few projects myself. GitHub helped me collaborate and learn from developers across the world. Super surreal to work on a product that has helped me and many other developers learn and build!
+When I started programming for the first time, I dove into various open-source repos on GitHub to learn how software development "worked" and eventually contributed to a few projects myself. On GitHub, I had a chance to collaborate and learn from developers across the world. Super surreal to work on a product that has helped me and many other developers learn and build!
 
 Some past work that I'm proud of:
 - created more accessible educational content for CS 61A as a Course Tutor as well as an Associate and Content Mentor in [Computer Science Mentors](https://csmentors.berkeley.edu/#/).
