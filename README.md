@@ -1,3 +1,7 @@
+### GitHub Actions Testing
+Click [here](https://github.com/ethanchewy/ethanchewy/issues/new?title=😂&body=Just+click+%27Submit+new+issue%27.+That+is+it.) to change this emojii: 😀
+
+////////
 ### Hi there 👋
 
 I'm currently a Software Engineer at GitHub who loves building software that tackles important and interesting problems. 
