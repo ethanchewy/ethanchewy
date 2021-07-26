@@ -1,5 +1,5 @@
 ### GitHub Actions Testing
-Click [here](https://github.com/ethanchewy/ethanchewy/issues/new?title=😂&body=Just+click+%27Submit+new+issue%27.+That+is+it.) to change this emojii: 😀
+Click on the emojii to change it with GitHub Actions: [😀](https://github.com/ethanchewy/ethanchewy/issues/new?title=😂&body=Just+click+%27Submit+new+issue%27.+That+is+it.) 
 
 ////////
 ### Hi there 👋
