@@ -1,7 +1,3 @@
-### GitHub Actions Testing
-Click on the emojii to change it to a random emojii with GitHub Actions: [😀](https://github.com/ethanchewy/ethanchewy/issues/new?title=emojii%7C😂&body=Just+click+%27Submit+new+issue%27.+That+is+it.) 
-
-////////
 ### Hi there 👋
 
 I'm currently a Software Engineer at GitHub who loves building software that tackles important and interesting problems. 
