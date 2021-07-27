@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     
     outputs: 
-      randomURL: ${{ steps.emojii.outputs.randomURL }}
+      random_url: ${{ steps.emojii.outputs.random_url }}
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -33,5 +33,5 @@ jobs:
     needs: build
     steps:
       - name: test printing
-        run: echo ${{ needs.build.outputs.randomURL }}
+        run: echo ${{ needs.build.outputs.random_url }}
         
