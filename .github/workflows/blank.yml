@@ -17,19 +17,21 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    
+    outputs: 
+      randomURL: ${{ steps.emojii.outputs.randomURL }}
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
       - id: emojii
         uses: ethanchewy/randomEmojiReadMe@main
-      
+        
+  job2:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
       - name: test printing
-        run: echo ${{ steps.emojii.outputs.randomURL }}
+        run: echo ${{ needs.build.outputs.randomURL }}
         
