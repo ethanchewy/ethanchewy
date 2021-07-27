@@ -31,5 +31,5 @@ jobs:
         uses: ethanchewy/randomEmojiReadMe@main
       
       - name: test printing
-        run: echo ${{ emojii.outputs.emojii }}
+        run: echo ${{ emojii.outputs.randomURL }}
         
