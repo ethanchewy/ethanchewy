@@ -20,7 +20,7 @@ I'm currently a Software Engineer at GitHub working on [GitHub Actions](https://
 
   Throughout these experiences, I've worked with C#, Python, Go, PHP, and JavaScript as well as frameworks/technologies such as .NET, Flask, Ruby on Rails, and Docker to develop features for millions of people. 
 
-  In my free time, I love playing video games with my friends, cooking, and playing basketball.
+  In my free time, I like to cook and play volleyball.
 </details>
 
 <details>
