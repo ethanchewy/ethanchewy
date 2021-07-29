@@ -10,13 +10,15 @@ I'm currently a Software Engineer at GitHub working on [GitHub Actions](https://
 <details>
    <summary>Past Work 🔨</summary>
   Some past work that I'm proud of:
-  - created more accessible educational content for CS 61A as a Course Tutor as well as an Associate and Content Mentor in [Computer Science Mentors](https://csmentors.berkeley.edu/#/).
-  - led the engineering team at [Connect@Cal](https://connected.berkeley.edu/) where we are creating new tools to help students get connected to personalized resources more easily such as our AI chat bot and case management system.
-  - worked on the [GitHub Actions](https://github.com/features/actions) Team on the [Runner](https://github.com/actions/runner) as a Software Engineering Intern where I designed, implemented, and launched the [composite run steps action feature](https://github.blog/changelog/2020-08-07-github-actions-composite-run-steps/)
-  - created several features at [Etsy](https://www.etsy.com/) that helped users checkout more easily
-  - created a technical analysis site that analyzes over 19 cryptocurrencies over 100 bullish and bearish signals at [Alpaca](https://alpaca.markets/).
+  <ul>
+  <li> created more accessible educational content for CS 61A as a Course Tutor as well as an Associate and Content Mentor in <a href="https://csmentors.berkeley.edu/#/">Computer Science Mentors</a></li>
+    <li>led the engineering team at <a href="https://connected.berkeley.edu/">Connect@Cal</a> where we are creating new tools to help students get connected to personalized resources more easily such as our AI chat bot and case management system</li>
+    <li>worked on the <a href="https://github.com/features/actions">GitHub Actions</a> Team on the <a href="https://github.com/actions/runner">Runner</a> as a Software Engineering Intern where I designed, implemented, and launched the <a href="https://github.blog/changelog/2020-08-07-github-actions-composite-run-steps/">composite run steps action feature</a></li>
+    <li>created several features at <a href="https://www.etsy.com/">Etsy</a> that helped users checkout more easily </li>
+  <li>created a technical analysis site that analyzes over 19 cryptocurrencies over 100 bullish and bearish signals at <a href="https://alpaca.markets/">Alpaca</a></li>
+  </ul>
 
-  Throughout these experiences, I've worked with C#, Python, Go, PHP, and JavaScript as well as frameworks/technologies such as .NET, Flask, and Docker to develop features for millions of people. 
+  Throughout these experiences, I've worked with C#, Python, Go, PHP, and JavaScript as well as frameworks/technologies such as .NET, Flask, Ruby on Rails, and Docker to develop features for millions of people. 
 
   In my free time, I love playing video games with my friends, cooking, and playing basketball.
 </details>
@@ -24,9 +26,11 @@ I'm currently a Software Engineer at GitHub working on [GitHub Actions](https://
 <details>
    <summary>More Info 🔗</summary>
 For more info, check out the following links:
-- website: https://ethanchiu.xyz/
-- blog: https://ethanchiu.xyz/blog/
-- linkedin: https://www.linkedin.com/in/ethanchiu/
+  <ul>
+    <li>website: https://ethanchiu.xyz/</li>
+    <li>blog: https://ethanchiu.xyz/blog/</li>
+    <li>linkedin: https://www.linkedin.com/in/ethanchiu/</li>
+  </ul>
 </details>
 
 Want to grab some coffee with me in San Francisco? Shoot me a DM at https://twitter.com/ChiuTweets
