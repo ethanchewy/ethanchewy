@@ -32,5 +32,3 @@ For more info, check out the following links:
     <li>linkedin: https://www.linkedin.com/in/ethanchiu/</li>
   </ul>
 </details>
-
-Want to grab some coffee with me in San Francisco? Shoot me a DM at https://twitter.com/ChiuTweets
