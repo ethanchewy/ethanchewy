@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I'm currently a Software Engineer at GitHub working on [GitHub Actions](https://github.com/features/actions)
-
-<details>
-  <summary>GitHub ❤️</summary>
-  When I started programming for the first time, I dove into various open-source repos on GitHub to learn how software development "worked" and eventually contributed to a few projects myself. On GitHub, I had a chance to collaborate and learn from developers across the world. Super surreal to work on a product that has helped me and many other developers learn and build!
-</details>
+I'm currently a Software Engineer at Amazon working on [CloudWatch](https://aws.amazon.com/cloudwatch/)
 
 <details>
    <summary>Past Work 🔨</summary>
@@ -13,7 +8,7 @@ I'm currently a Software Engineer at GitHub working on [GitHub Actions](https://
   <ul>
   <li> created more accessible educational content for CS 61A as a Course Tutor as well as an Associate and Content Mentor in <a href="https://csmentors.berkeley.edu/#/">Computer Science Mentors</a></li>
     <li>led the engineering team at <a href="https://connected.berkeley.edu/">Connect@Cal</a> where we are creating new tools to help students get connected to personalized resources more easily such as our AI chat bot and case management system</li>
-    <li>worked on the <a href="https://github.com/features/actions">GitHub Actions</a> Team on the <a href="https://github.com/actions/runner">Runner</a> as a Software Engineering Intern where I designed, implemented, and launched the <a href="https://github.blog/changelog/2020-08-07-github-actions-composite-run-steps/">composite run steps action feature</a></li>
+    <li>worked on the <a href="https://github.com/features/actions">GitHub Actions</a> Team on various projects like Composite Actions, performance testing, and a few upcoming features</li>
     <li>created several features at <a href="https://www.etsy.com/">Etsy</a> that helped users checkout more easily </li>
   <li>created a technical analysis site that analyzes over 19 cryptocurrencies over 100 bullish and bearish signals at <a href="https://alpaca.markets/">Alpaca</a></li>
   </ul>
